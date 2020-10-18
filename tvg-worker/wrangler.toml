@@ -1,0 +1,6 @@
+name = "tvg-worker"
+type = "javascript"
+account_id = "bcc8f299c68bac05c4ffc036b04f073d"
+workers_dev = true
+route = ""
+zone_id = ""
